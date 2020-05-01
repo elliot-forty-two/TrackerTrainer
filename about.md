@@ -1,3 +1,8 @@
+---
+permalink: /about/
+title: "About"
+---
+
 Interactive Skills Development Exercise for Roller Derby Skating Officials
 
 Initial concept by Theminist Killjoy, converted into a game by Holtz, aka Bex, London Roller Derby's Head NSO. 
