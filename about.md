@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
 ---
 
 Interactive Skills Development Exercise for Roller Derby Skating Officials
