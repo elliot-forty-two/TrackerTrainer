@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
    Interactive Skills Development Exercise for Roller Derby Skating Officials
 twitter_username: bexmakesgames
 github_username: bexedmondson
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: dark
+search: false
 
 # Build settings
 markdown: kramdown
@@ -76,11 +76,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
