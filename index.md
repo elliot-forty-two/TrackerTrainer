@@ -3,6 +3,4 @@ layout: home
 author_profile: true
 ---
 
-# Welcome
-
-[About](/about)
+testing content and layout hereeee
