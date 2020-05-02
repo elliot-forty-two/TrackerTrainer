@@ -33,13 +33,13 @@ Your goal is to mentally keep track of the pack's location as it shifts over the
 
 ## Points!
 
-Roller derby is a game in which nothing ever happens in isolation, and a toller derby official must be skilled at processing multiple information streams simultaneously.
+Roller derby is a game in which nothing ever happens in isolation, and a roller derby official must be skilled at processing multiple information streams simultaneously.
 
-In additions to tracking the pack location, you must also attempt to count the score.
+In addition to tracking the pack location, you must also attempt to count the score.
 
 Points appear in the middle of the screen in the forms of stars. 1 star = 1 point.
 
-Keep a running total of the points that are amassed over the course of the animation.
+Keep a running total of the points that are amassed over the course of the game.
 
 The point total is reset to zero when you see the curved arrow symbol.
 
